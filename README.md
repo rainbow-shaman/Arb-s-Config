@@ -1,1 +1,1 @@
-**Dont forgot to Back up your config before replacing mine**
+**Dont forgot to Back up your config before using mine**
